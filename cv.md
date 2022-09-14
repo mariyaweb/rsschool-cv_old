@@ -14,11 +14,11 @@
 * Figma, Photoshop, Illustrator;
 * Tilda;
 * Bitrix;
-* HTML, CSS.
+* HTML, CSS, JS(basic).
 ### Education
-* University: Belarusian State University of Informatics and Radioelectronics;
+* University: Belarusian State University of Informatics and Radioelectronics.
 * Courses:
     - Website layout course by Evgeny Andrikanich (HTML, CSS, JavaScript)
     - Course on creating websites on the Tilda platform by Vera Taganova
     - JavaScript Manual on learnjavascript.ru (in progress)
-    - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
