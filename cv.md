@@ -18,7 +18,7 @@
 ### Education
 * University: Belarusian State University of Informatics and Radioelectronics;
 * Courses:
-+ Website layout course by Evgeny Andrikanich (HTML, CSS, JavaScript)
-+ Course on creating websites on the Tilda platform by Vera Taganova
-+ JavaScript Manual on learnjavascript.ru (in progress)
-+ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    - Website layout course by Evgeny Andrikanich (HTML, CSS, JavaScript)
+    - Course on creating websites on the Tilda platform by Vera Taganova
+    - JavaScript Manual on learnjavascript.ru (in progress)
+    - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
